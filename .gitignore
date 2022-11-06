@@ -1,0 +1,10 @@
+bin
+obj
+*.lock
+/packages
+*.ide
+.idea/
+.vscode
+.env*
+.vs
+*.DotSettings.user
